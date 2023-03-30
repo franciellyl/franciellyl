@@ -1,7 +1,7 @@
 # Olá, me chamo Francielly! 
 ## Bem vindo(a) ao meu perfil GitHub 👋
 - 🔭 Sou desenvolvedora Back-end no banco Santander
-- 🌱 Estou ampliando os meus conhecimentos em frontend e tecnologias relacionadas ao ecossistema Big Data como Spark, Kafka e etc...
+- 🌱 Estou ampliando os meus conhecimentos em Front-end e tecnologias relacionadas ao ecossistema Big Data como Spark, Kafka e etc...
 - 👯 Desejo compartilhar os conhecimentos que estou adquirindo por aqui
 - 📫 E podem me encontrar nas redes abaixos:
 <div>
