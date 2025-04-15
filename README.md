@@ -1,7 +1,7 @@
 # Hi, my name is Francielly! 
 ## Welcome to my GitHub profile👋
-- 👩🏻‍💻 I'm Software Engineer at Santander Bank
-- 💻 I'm specializing in Software Engineering and sharing this journey here
+- 👩🏻‍💻 I'm Data Engineer at Itaú Bank
+- 💻 I'm specializing in Data Engineering and sharing this journey here
 - 📫 You could find me at the social media below:
 <div>
 <a href="https://instagram.com/franciellyl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
